@@ -264,9 +264,9 @@
   button {
     display: block;
     margin: 20px auto;
+    margin-top: 60px;
     width: 10%;
     padding: 15px;
-    padding-top: 15px;
     font-size: 15px;
     background: #d0d0d5;
     border: 3px solid #3b3b4f;
