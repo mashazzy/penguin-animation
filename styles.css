@@ -263,10 +263,10 @@
   
   button {
     display: block;
-    margin: 40px auto;
-    width: 40%;
+    margin: 20px auto;
+    width: 10%;
     padding: 15px;
-    font-size: 23px;
+    font-size: 15px;
     background: #d0d0d5;
     border: 3px solid #3b3b4f;
 }
