@@ -272,6 +272,11 @@
     border: 3px solid #3b3b4f;
 }
 
+.blackbackground
+{ background: black;
+
+}
+
   .ground {
     width: 100vw;
     height: calc(100vh - 300px);
